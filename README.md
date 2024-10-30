@@ -26,3 +26,12 @@ Ejecuta este comando en la terminal para instalar **Pygame**:
 
 ```bash
 pip install pygame
+```
+
+## **Ejecuta el archivo**
+
+Ejecuta este comando en la terminal para **iniciar el juego**:
+
+```bash
+python simulador.py
+```
